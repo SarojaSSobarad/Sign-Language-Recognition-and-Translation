@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+
+# VS Code settings
+.vscode/
+
+# Model files (large trained models)
+model/
+
+# TensorFlow Lite files (optional if large)
+*.tflite
+
+# Database files
+*.db
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
